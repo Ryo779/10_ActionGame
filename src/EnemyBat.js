@@ -1,3 +1,4 @@
+
 var HoverHeight = 300; //ホバリング
 var RiseHeight = 240; //Rise上昇
 
